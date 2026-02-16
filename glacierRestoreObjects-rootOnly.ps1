@@ -1,14 +1,4 @@
-﻿########
-#
-#   Name: glacierRestoreObjects-rootOnly.ps1
-#   Author: Brian Filliat    
-#   Company: Microland
-#   Date: 4/17/2023
-#   Purpose: To allow the user to restore the contents of a folder in S3 and not restore any subfolders or their contents
-#
-########
-
-# Import needed libraries
+﻿# Import needed libraries
 
 import-module awspowershell
 Add-Type -AssemblyName Microsoft.VisualBasic

@@ -1,14 +1,4 @@
-﻿########
-#
-#   Name: S3ObjectRemoveDeleteMarkers.ps1
-#   Author: Brian Filliat
-#   Company: Microland
-#   Date: 3/29/2023
-#   Purpose: To parse a target S3 bucket for versions of objects created before a specified date and remove delete markers for said objects
-#
-########
-
-# Import needed libraries
+﻿# Import needed libraries
 
 import-module awspowershell
 Add-Type -AssemblyName Microsoft.VisualBasic
