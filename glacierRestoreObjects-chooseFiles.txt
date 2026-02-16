@@ -1,8 +1,8 @@
 ﻿########
 #
 #   Name: glacierRestoreObjects-chooseFiles.ps1
-#   Author: Michael Hultquist
-#   Company: CBTS
+#   Author: Brian Filliat
+#   Company: Microland
 #   Date: 4/17/2023
 #   Purpose: To allow the user to choose objects from the specified glacier S3 bucket and restore those objects to a different specified bucket
 #
