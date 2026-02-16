@@ -1,0 +1,10 @@
+# Temporary files
+temp.html
+*.tmp
+
+# Log files
+*.log
+*.log.json
+
+# Executable files
+*.exe

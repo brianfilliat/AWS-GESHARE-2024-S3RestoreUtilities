@@ -1,14 +1,4 @@
-﻿########
-#
-#   Name: glacierRestoreObjects-Folder.ps1
-#   Author: Brian Filliat
-#   Company: Microland
-#   Date: 4/17/2023
-#   Purpose: To allow users to restore an entire folder from Glacier including all subfolders and files
-#
-########
-
-# Import needed libraries
+﻿# Import needed libraries
 
 import-module awspowershell
 #Add-Type -AssemblyName Microsoft.VisualBasic

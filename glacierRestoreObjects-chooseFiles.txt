@@ -1,14 +1,4 @@
-﻿########
-#
-#   Name: glacierRestoreObjects-chooseFiles.ps1
-#   Author: Brian Filliat
-#   Company: Microland
-#   Date: 4/17/2023
-#   Purpose: To allow the user to choose objects from the specified glacier S3 bucket and restore those objects to a different specified bucket
-#
-########
-
-# Import needed libraries
+﻿# Import needed libraries
 
 import-module awspowershell
 Add-Type -AssemblyName Microsoft.VisualBasic
