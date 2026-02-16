@@ -1,8 +1,8 @@
 ﻿########
 #
 #   Name: S3ObjectsRemoveDeleteMarkers-chooseFiles.ps1
-#   Author: Michael Hultquist
-#   Company: CBTS
+#   Author: Brian Filliat
+#   Company: Microland
 #   Date: 3/29/2023
 #   Purpose: To parse a target S3 bucket for versions of objects created before a specified date and allow user to select files to remove delete markers from
 #
