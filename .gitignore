@@ -7,4 +7,4 @@ temp.html
 *.log.json
 
 # Executable files
-gossamer.exe
+*.exe
